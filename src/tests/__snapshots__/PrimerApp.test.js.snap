@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Revisa componente primer app should show <primerApp /> 1`] = `
+<Fragment>
+  <h1>
+    Hola Terricola
+  </h1>
+  <h2>
+    subtitulo zi zi
+  </h2>
+</Fragment>
+`;

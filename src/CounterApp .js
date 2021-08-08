@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 
 
 
-const CounterApp = ({value = 0}) => {
+const CounterApp = ({value = 10}) => {
     const [counter, setCounter] = useState( value );
 
     const sumar = () => setCounter(counter + 1);

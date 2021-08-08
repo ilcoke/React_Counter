@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Revisa componente primer app should show <primerApp /> 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2>
+    10
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     +1 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     -1 
+  </button>
+</Fragment>
+`;
+
+exports[`Revisa componente primer app should show <primerApp /> whith 0 defoult 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2>
+    10
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     +1 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     -1 
+  </button>
+</Fragment>
+`;
